@@ -1,0 +1,39 @@
+{% assign t = site.data.taxonomy %}
+{% assign p = include.p %}
+<article class="card">
+  <div class="card__head">
+    {% if p.image %}
+      <img class="card__image" src="{{ p.image }}" alt="" loading="lazy" width="56" height="56">
+    {% else %}
+      <span class="card__monogram" aria-hidden="true">{{ p.name_he | slice: 0 }}</span>
+    {% endif %}
+    <div class="card__title">
+      <h3 class="card__name">{{ p.name_he }}</h3>
+      <p class="card__meta">
+        <span>{{ p.city_he }}</span>
+        <span class="card__dot" aria-hidden="true">·</span>
+        <span>{{ t.lighting[p.lighting] }}</span>
+        {% if p.teaches %}
+          <span class="card__dot" aria-hidden="true">·</span>
+          <span class="badge">מלמד/ת</span>
+        {% endif %}
+      </p>
+    </div>
+  </div>
+
+  {% if p.tagline_he %}<p class="card__tagline">{{ p.tagline_he }}</p>{% endif %}
+
+  <ul class="chips" aria-label="התמחויות">
+    {% for s in t.specialty_order %}
+      {% if p.specialties contains s %}
+        <li><a class="chip" href="{{ '/specialty/' | append: s | append: '/' | relative_url }}">{{ t.specialties[s] }}</a></li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+
+  <p class="card__links">
+    {% if p.website %}<a href="{{ p.website }}" rel="noopener" target="_blank" aria-label="האתר של {{ p.name_he }}">אתר</a>{% endif %}
+    {% if p.instagram %}<a href="{{ p.instagram }}" rel="noopener" target="_blank" aria-label="האינסטגרם של {{ p.name_he }}">אינסטגרם</a>{% endif %}
+    {% if p.facebook %}<a href="{{ p.facebook }}" rel="noopener" target="_blank" aria-label="הפייסבוק של {{ p.name_he }}">פייסבוק</a>{% endif %}
+  </p>
+</article>

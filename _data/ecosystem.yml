@@ -1,0 +1,256 @@
+# המקומות שבהם צלמות וצלמי משפחה בישראל לומדים, נפגשים, מתחרים ומפרסמים.
+# kind הוא אחד מ: school | lectures | community | facebook_group | award | directory | magazine | podcast | youtube
+# description_he במילים שלנו, משפט או שניים.
+
+# בתי ספר וקורסים
+
+- name_he: צבד, האקדמיה לצילום
+  name_en: ZBD Photography Academy
+  kind: school
+  url: https://zbdphoto.com/
+  description_he: >-
+    בית ספר לצילום עם מוקדים בתל אביב, ירושלים, חיפה ובאר שבע. מציע קורס ייעודי לצילומי משפחה
+    (הריון, ילדים, משפחות, בר ובת מצווה, אור טבעי, סטיילינג, פוזינג ועסק), וכן קורס ניובורן וקורס סטודיו.
+    מאחוריו עומדת קהילת הפייסבוק הגדולה בארץ לצלמים.
+  source_urls: [https://zbdphoto.com/]
+
+- name_he: האקדמיה של מאמא סטודיו
+  name_en: Mamma Studio Academy
+  kind: school
+  url: https://academy.mammastudio.co.il/
+  description_he: >-
+    האקדמיה לצלמות של יהודית בסקין גמליאל בעמק חפר: קורסי הריון וניובורן מורחבים, סדנאות יומיות,
+    וובינרים, ביקורת עבודות, ייעוץ ומנטורינג.
+  source_urls: [https://academy.mammastudio.co.il/]
+
+- name_he: סטודיו אפונים, קורסים וסדנאות
+  name_en: Studio Afunim courses
+  kind: school
+  url: https://afunim.co.il/
+  description_he: >-
+    קורסי צילום ניובורן, סדנת ניובורן אישית ליום שלם, סדנאות פוזינג ועטיפות וליווי אחד על אחד,
+    בסטודיו של לימור דוד בקיבוץ יפעת.
+  source_urls: [https://afunim.co.il/]
+
+- name_he: סטודיו לצילום, קרן דניאלי
+  name_en: Studio LeZilum, Keren Danieli
+  kind: school
+  url: https://www.studiolezilum.com/
+  description_he: >-
+    קורסי צילום הריון, ניובורן ומשפחה שמשלבים גם ניהול עסקי, לצד מאסטר קלאס לצילומי ילדים ומשפחה
+    באור טבעי ומנטורינג לצלמות.
+  source_urls: [https://www.studiolezilum.com/photo-course11/, https://heb.danielikeren.com/children-photography-masterclass/]
+
+- name_he: מכללת פרוג, קורס צילומי משפחה וניובורן לנשים
+  name_en: Prog College, family and newborn photography course for women
+  kind: school
+  url: https://www.prog.co.il/school/courses/photography-women/
+  description_he: >-
+    מסלול לנשים במכללה של קהילת פרוג, המכוון לציבור החרדי: צילום ילדים, משפחה וניובורן, עם עבודה
+    בסטודיו וסדנאות שטח.
+  source_urls: [https://www.prog.co.il/school/courses/photography-women/]
+
+- name_he: 6B סטודיו (גליץ), קורס צילום פרו
+  name_en: 6B Studio (Galitz), Pro photography course
+  kind: school
+  url: https://galitz.co.il/courses/family/
+  description_he: >-
+    קורס המשך של בית הספר גליץ בתל אביב ובחיפה, שכולל תאורה טבעית ומלאכותית, צילומי הריון ומשפחה,
+    עבודה עם מצולמים וכלים עסקיים.
+  source_urls: [https://galitz.co.il/courses/family/]
+
+- name_he: בית הספר לצלמות של חוה רחל
+  name_en: Chava Rachel photography school
+  kind: school
+  url: https://crpschool.co.il/
+  description_he: >-
+    קורס ניובורן דיגיטלי עם סדנאות פרונטליות וקורס צילום ראשוני לנשים, מבית הסטודיו של חוה רחל בביתר עילית.
+  source_urls: [https://crpschool.co.il/, https://www.chavarachel.com/]
+
+- name_he: המכללה לצילום של ד"ר שירי כגן
+  name_en: Dr. Shiri Kagan photography college
+  kind: school
+  url: https://shirikagan-photo.com/training-center/
+  description_he: >-
+    מכללה וסטודיו לצילום עם מרכז השתלמויות לבוגרות: סדנאות פוטושופ, סדנת בת מצווה לאם ולבת,
+    סדנת וידאו לצלמות סטילס וקהילת בוגרים בפייסבוק.
+  source_urls: [https://shirikagan-photo.com/training-center/]
+
+# הרצאות, סדנאות וליווי
+
+- name_he: פוטו טיפס
+  name_en: Photo Tips
+  kind: lectures
+  url: https://www.phototips.co.il/
+  description_he: >-
+    קהילת לימוד הצילום הגדולה בישראל: הרצאות אונליין, סדנאות ברחבי הארץ, טיולי צילום, תחרות חודשית
+    וספריית הרצאות מוקלטות. כאן העבירה אולגה כץ הרצאה על צילומי משפחה באור טבעי, וכאן מתקיימות
+    סדנאות על צילומי משפחה ודורות בסטודיו ועל צילום ילדים בתאורה טבעית.
+  source_urls: [https://www.phototips.co.il/, https://www.phototips.co.il/event-details/hrzh-wnlyyn-wlgh-kz-zylwmy-msphh-bwr-tby]
+
+- name_he: רגע אמיתי, מור אמיתי
+  name_en: Rega Amiti, Mor Amitai
+  kind: lectures
+  url: https://www.rega-amiti.com/
+  description_he: >-
+    קורסי שיווק וסדנאות תוכן לצלמות ולצלמים עצמאיים, בדגש על הצפון.
+  source_urls: [https://www.rega-amiti.com/]
+
+- name_he: רותם כץ, קורס צילום לייפסטייל
+  name_en: Rotem Katz, lifestyle photography course
+  kind: lectures
+  url: https://www.rotemkatz.com/lifestylephotographycourse
+  description_he: >-
+    קורס לצלמות משפחה על סשן לייפסטייל שלם: עבודה אותנטית עם משפחות, תאורה מאתגרת ובניית גלריה אומנותית.
+    האתר באנגלית.
+  source_urls: [https://www.rotemkatz.com/lifestylephotographycourse]
+
+- name_he: מיכל הרדוף רז, ליווי עסקי לצלמות
+  name_en: Michal Harduf Raz, business mentoring for photographers
+  kind: lectures
+  url: http://iphoto.co.il/
+  description_he: >-
+    צלמת פורטרט ונשיות מהוד השרון שמעבירה ליווי שיווק ומכירות לצלמות הריון ומשפחה.
+  source_urls: [http://iphoto.co.il/]
+
+# קהילות
+
+- name_he: צלמים וצלמות ישראל, קהילת צבד
+  name_en: Photographers Israel, the ZBD community
+  kind: facebook_group
+  url: https://www.facebook.com/groups/PhotographersIsrael/
+  description_he: >-
+    קבוצת הפייסבוק הגדולה בארץ לצלמים, עשרות אלפי חברות וחברים, עם סדנאות חינמיות בזום, תחרויות
+    ושיתוף עבודות יומיומי. יש לה גם ערוץ טלגרם וחשבון אינסטגרם.
+  source_urls: [https://t.me/s/photographers_il, https://zbdphoto.com/]
+
+- name_he: פרוג, קהילת הצלמים
+  name_en: Prog, photographers community
+  kind: community
+  url: https://www.prog.co.il/track/tzilum/
+  description_he: >-
+    פורומי הצילום של קהילת פרוג, המרכז המקצועי של צלמות וצלמים מהציבור החרדי: פרסום עבודות, ביקורת
+    מקצועית, פורום סגור לצלמות מקצועיות וקבוצת צילום לנשים בלבד. הרבה סטים של ניובורן, משפחה ובת מצווה.
+  source_urls: [https://www.prog.co.il/forums/]
+
+- name_he: פוטו איז:ראל
+  name_en: PHOTO IS:RAEL
+  kind: community
+  url: https://photoisrael.org/
+  description_he: >-
+    פסטיבל הצילום הבינלאומי של ישראל, עם קהילת פייסבוק לשיתוף עבודות ותערוכות פתוחות להגשה.
+  source_urls: [https://photoisrael.org/photoisrael-communitiy/]
+
+- name_he: מרכז קדם, פורום מולטימדיה
+  name_en: Kedem Center multimedia forum
+  kind: community
+  url: https://kedemcenter.co.il/groups/multimedia/
+  description_he: >-
+    קהילה מהמגזר הדתי עם שרשורים על צלמות מקצועיות, ניובורן, סמאש קייק וחלאקה, ושאלות של הורים שמחפשים צלמת.
+  source_urls: [https://kedemcenter.co.il/groups/multimedia/]
+
+# תחרויות ופרסים
+
+- name_he: 35AWARDS
+  name_en: 35AWARDS
+  kind: award
+  url: https://35awards.com/en/winners10th/country/IL/
+  description_he: >-
+    תחרות צילום בינלאומית עם קטגוריות ילדים, פורטרט ילדים וניובורן, שמפרסמת דירוגים לפי מדינה ולפי עיר.
+    צלמות וצלמי משפחה ישראלים מופיעים בה בקביעות, ובהם אולגה כץ בדירוג רחובות של התחרות החמישית.
+  source_urls: [https://35awards.com/en/winners10th/country/IL/, https://35awards.com/winners5th/country/city/3906/]
+
+- name_he: Baby Photo Awards
+  name_en: Baby Photo Awards
+  kind: award
+  url: https://babyphotoawards.com/en
+  description_he: >-
+    תחרות בינלאומית לצילומי תינוקות, ניובורן ומשפחה, שצלמות ישראליות מדורגות בה בעשירייה הראשונה.
+  source_urls: [https://babyphotoawards.com/en]
+
+- name_he: Newborn Photo Award
+  name_en: Newborn Photo Award
+  kind: award
+  url: https://newbornphotoaward.com/
+  description_he: >-
+    התחרות האחות של Baby Photo Awards, ייעודית לצילומי ניובורן.
+  source_urls: [https://newbornphotoaward.com/]
+
+# מדריכים ואינדקסים
+
+- name_he: פורטל הצלמים
+  name_en: thephotographer.co.il
+  kind: directory
+  url: https://thephotographer.co.il/
+  description_he: >-
+    פורטל ספקים עם מדריך צלמים לפי אזור ועיר, מאמרים על צילומי הריון ובוק בת מצווה, ופורום.
+  source_urls: [https://thephotographer.co.il/articles]
+
+- name_he: מידרג
+  name_en: Midrag
+  kind: directory
+  url: https://www.midrag.co.il/
+  description_he: >-
+    אינדקס בעלי מקצוע מבוסס חוות דעת צרכנים, עם דפי צילומי ילדים לפי עיר ומדריכי מחיר לצילומי
+    משפחה, ניובורן, גיל שנה ובוק בת מצווה.
+  source_urls: [https://www.midrag.co.il/Content/Tip/25658]
+
+- name_he: B144, צלמים וסטודיו לצילום
+  name_en: Bezeq B144, photographers and studios
+  kind: directory
+  url: https://www.b144.co.il/%D7%A6%D7%9C%D7%9E%D7%99%D7%9D-%D7%95%D7%A1%D7%98%D7%95%D7%93%D7%99%D7%95-%D7%9C%D7%A6%D7%99%D7%9C%D7%95%D7%9D/
+  description_he: >-
+    מדריך העסקים של בזק, עם דפי צלמים לפי עיר וסינון לפי קהל יעד: משפחה, גיל שנה, בר ובת מצווה,
+    הריון, ניובורן וחלאקה. כולל קטגוריה לציבור הדתי.
+  source_urls: [https://www.b144.co.il/]
+
+- name_he: דפי זהב, צלמים וסטודיו לצילום
+  name_en: Dapei Zahav, photographers and studios
+  kind: directory
+  url: https://www.d.co.il/
+  description_he: >-
+    מדריך עסקים עם קטגוריית צלמים לפי עיר, חוות דעת מדורגות ומחירונים.
+  source_urls: [https://www.d.co.il/]
+
+- name_he: בסלון, השוואת סדנאות צילום
+  name_en: Basalon, photography workshops marketplace
+  kind: directory
+  url: https://basalon.co.il/workshop/%D7%A1%D7%93%D7%A0%D7%90%D7%95%D7%AA-%D7%A6%D7%99%D7%9C%D7%95%D7%9D/
+  description_he: >-
+    אתר שמשווה עשרות סדנאות צילום בישראל, כולל סדנאות משפחה וניובורן לצלמות בתחילת הדרך.
+  source_urls: [https://basalon.co.il/workshop/%D7%A1%D7%93%D7%A0%D7%90%D7%95%D7%AA-%D7%A6%D7%99%D7%9C%D7%95%D7%9D/]
+
+# מגזינים, פודקאסטים וערוצים
+
+- name_he: מגה-פיקסל
+  name_en: MegaPixel
+  kind: magazine
+  url: https://www.megapixel.co.il/
+  description_he: >-
+    אתר התוכן הגדול בישראל לצילום: חדשות ציוד, ביקורות ומדריכים. ממוקד בטכניקה ובציוד, לא בז'אנר המשפחה,
+    אבל זה המקום שבו הקהילה קוראת.
+  source_urls: [https://www.megapixel.co.il/]
+
+- name_he: מעבר לעדשה, פודקאסט מאמא סטודיו
+  name_en: Beyond the Lens, Mamma Studio podcast
+  kind: podcast
+  url: https://open.spotify.com/show/7iG4Bk79KzgbIuU8NixhmG
+  description_he: >-
+    פודקאסט של יהודית בסקין גמליאל, עם שיחות עם צלמות וצלמים מתחום ההריון, הניובורן והמשפחה.
+  source_urls: [https://open.spotify.com/show/7iG4Bk79KzgbIuU8NixhmG]
+
+- name_he: הפיקסולוג
+  name_en: The Pixolog
+  kind: podcast
+  url: https://podcasts.apple.com/us/podcast/%D7%94%D7%A4%D7%99%D7%A7%D7%A1%D7%95%D7%9C%D7%95%D7%92-%D7%A4%D7%95%D7%93%D7%A7%D7%90%D7%A1%D7%98-%D7%A6%D7%99%D7%9C%D7%95%D7%9D/id1599132464
+  description_he: >-
+    פודקאסט שבועי של נתי תורג'מן עם ראיונות לצלמים ואנשי מקצוע, כולל פוטותרפיה וצילום משפחות, וקבוצת פייסבוק נלווית.
+  source_urls: [https://podcasts.apple.com/us/podcast/%D7%94%D7%A4%D7%99%D7%A7%D7%A1%D7%95%D7%9C%D7%95%D7%92-%D7%A4%D7%95%D7%93%D7%A7%D7%90%D7%A1%D7%98-%D7%A6%D7%99%D7%9C%D7%95%D7%9D/id1599132464]
+
+- name_he: יהודית גמליאל, מאמא סטודיו ביוטיוב
+  name_en: Mamma Studio on YouTube
+  kind: youtube
+  url: https://www.youtube.com/@mammastudio
+  description_he: >-
+    סרטוני מאחורי הקלעים מצילומי הריון וניובורן ושיעורי עיבוד בפוטושופ.
+  source_urls: [https://www.youtube.com/@mammastudio]

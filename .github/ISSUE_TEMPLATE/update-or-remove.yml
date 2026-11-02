@@ -1,0 +1,37 @@
+name: עדכון או הסרה של רשומה
+description: תיקון פרט ברשומה קיימת, או בקשה להסיר רשומה מהמדריך.
+title: "עדכון: "
+labels: ["עדכון"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        צלם או צלמת שמבקשים להסיר את הרשומה שלהם, מוסרים בלי שאלות.
+  - type: input
+    id: name
+    attributes:
+      label: שם הצלם או הצלמת כפי שמופיע במדריך
+    validations:
+      required: true
+  - type: dropdown
+    id: action
+    attributes:
+      label: מה לעשות
+      options:
+        - לעדכן פרט
+        - להסיר את הרשומה
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: הפרטים
+      description: מה לשנות ולמה, עם קישור למקור אם יש
+    validations:
+      required: true
+  - type: checkboxes
+    id: who
+    attributes:
+      label: מי מבקש
+      options:
+        - label: אני הצלם או הצלמת, או פועל/ת בשמם

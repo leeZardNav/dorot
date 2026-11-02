@@ -1,0 +1,105 @@
+---
+layout: default
+title: דורות — צלמות וצלמי משפחה בישראל
+description: מדריך קהילתי פתוח לצלמות ולצלמי משפחה בישראל, לפי אזור והתמחות, בסטודיו ובאור טבעי.
+---
+{% assign t = site.data.taxonomy %}
+{% assign all = site.data.photographers | sort: "name_he" %}
+{% assign cities = all | map: "city_he" | uniq %}
+{% assign teachers = all | where: "teaches", true %}
+
+<section class="hero">
+  <div class="container hero__inner">
+    <p class="eyebrow">מדריך קהילתי פתוח</p>
+    <h1 class="hero__title">צלמות וצלמי המשפחה של ישראל, <em>במקום אחד</em>.</h1>
+    <p class="hero__lead">
+      מי מצלמת משפחות באור טבעי בשרון? מי מצלם בת מצווה בסטודיו בירושלים? מי מלמדת צלמות מתחילות?
+      דורות הוא מדריך שהקהילה כותבת, מתקנת ומרחיבה, בלי פרסומות ובלי דירוגים קנויים.
+    </p>
+    <p class="hero__actions">
+      <a class="button" href="#directory">למדריך</a>
+      <a class="button button--ghost" href="{{ '/contribute/' | relative_url }}">הוסיפו צלם או צלמת</a>
+    </p>
+    <dl class="hero__stats">
+      <div><dt>צלמות וצלמים</dt><dd>{{ all | size }}</dd></div>
+      <div><dt>יישובים</dt><dd>{{ cities | size }}</dd></div>
+      <div><dt>גם מלמדים ומלמדות</dt><dd>{{ teachers | size }}</dd></div>
+    </dl>
+  </div>
+</section>
+
+<section class="section" aria-labelledby="by-specialty">
+  <div class="container">
+    <div class="section__head">
+      <div>
+        <h2 id="by-specialty" class="section__title">לפי התמחות</h2>
+        <p class="section__hint">כל התמחות היא דף משלה, עם קישור קבוע שאפשר לשלוח הלאה.</p>
+      </div>
+    </div>
+    <ul class="pills">
+      {% for s in t.specialty_order %}
+        {% assign n = all | where_exp: "p", "p.specialties contains s" | size %}
+        <li><a class="pill" href="{{ '/specialty/' | append: s | append: '/' | relative_url }}">{{ t.specialties[s] }} <span class="pill__count">{{ n }}</span></a></li>
+      {% endfor %}
+    </ul>
+  </div>
+</section>
+
+<section id="directory" class="section" aria-labelledby="directory-title">
+  <div class="container">
+    <div class="section__head">
+      <div>
+        <h2 id="directory-title" class="section__title">המדריך, לפי אזור</h2>
+        <p class="section__hint">הסדר בתוך כל אזור הוא אלפביתי. אין כאן דירוג.</p>
+      </div>
+      <form class="search" role="search" hidden data-search>
+        <label for="q">חיפוש לפי שם, יישוב או התמחות</label>
+        <input id="q" type="search" autocomplete="off" placeholder="למשל: רחובות, ניובורן, אור טבעי">
+        <p class="search__status" aria-live="polite" data-search-status></p>
+      </form>
+    </div>
+
+    <nav class="subnav" aria-label="קפיצה לאזור">
+      {% for r in t.region_order %}
+        {% assign n = all | where: "region", r | size %}
+        <a href="#region-{{ r }}">{{ t.regions[r] }} <span>{{ n }}</span></a>
+      {% endfor %}
+    </nav>
+
+    {% for r in t.region_order %}
+      {% assign group = all | where: "region", r %}
+      <section class="region" id="region-{{ r }}" aria-labelledby="region-{{ r }}-title">
+        <h3 id="region-{{ r }}-title" class="region__title">{{ t.regions[r] }} <span class="region__count">{{ group | size }}</span></h3>
+        {% if group.size > 0 %}
+          <div class="grid">
+            {% for p in group %}{% include card.html p=p %}{% endfor %}
+          </div>
+        {% else %}
+          <p class="empty">עדיין לא נוספו צלמות או צלמים מ{{ t.regions[r] }}. <a href="{{ '/contribute/' | relative_url }}">הוסיפו את הראשון או הראשונה</a>.</p>
+        {% endif %}
+      </section>
+    {% endfor %}
+  </div>
+</section>
+
+<section class="section" aria-labelledby="teaser-title">
+  <div class="container">
+    <div class="teaser">
+      <div>
+        <p class="eyebrow">נקודת המוצא</p>
+        <h2 id="teaser-title">המדריך הזה נולד מתמונה אחת</h2>
+        <p>
+          פוסט של אולגה כץ, צלמת משפחה מרחובות: נערה על סף בת מצווה, חצאית פורחת כמו פרח על רקע ורוד בסטודיו.
+          יצאנו ממנה למפות את מי שעוסקים באותו מקצוע, באותה נישה, ברחבי הארץ.
+        </p>
+        <p><a href="{{ '/spotlight/' | relative_url }}">לסיפור ולעבודות הנבחרות</a></p>
+      </div>
+      <blockquote class="teaser__aside">
+        צלמת א.נשים בעיניים טובות. בסטודיו ובאור טבעי.
+        <small>אולגה כץ, בפרופיל הפייסבוק שלה</small>
+      </blockquote>
+    </div>
+  </div>
+</section>
+
+<script src="{{ '/assets/js/filter.js' | relative_url }}" defer></script>

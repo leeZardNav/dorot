@@ -1,0 +1,104 @@
+name: הוספת צלם או צלמת
+description: הצעה להוסיף צלם או צלמת למדריך דורות. מידע עסקי ציבורי בלבד.
+title: "הוספה: "
+labels: ["הוספה"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        תודה! ממלאים את השדות, ואחד המתחזקים יוסיף את הרשומה למאגר.
+        בלי טלפונים, בלי כתובות מייל, בלי כתובות רחוב ובלי מחירים. לכל אלה יש את האתר של הצלם או הצלמת.
+  - type: input
+    id: name_he
+    attributes:
+      label: שם מלא בעברית
+      placeholder: למשל, אולגה כץ
+    validations:
+      required: true
+  - type: input
+    id: name_en
+    attributes:
+      label: שם באנגלית
+      placeholder: Olga Katz
+    validations:
+      required: true
+  - type: input
+    id: city
+    attributes:
+      label: יישוב
+      description: היישוב שבו הסטודיו או שבו רוב הצילומים
+      placeholder: רחובות
+    validations:
+      required: true
+  - type: dropdown
+    id: region
+    attributes:
+      label: אזור
+      options:
+        - המרכז (תל אביב, רמת גן, גבעתיים, פתח תקווה, חולון, בת ים, מודיעין)
+        - השפלה (ראשון לציון, נס ציונה, רחובות, רמלה, לוד, יבנה, גדרה)
+        - השרון (הרצליה, רעננה, כפר סבא, הוד השרון, נתניה, חדרה, פרדס חנה)
+        - הצפון (חיפה והקריות, נהריה, כרמיאל, נצרת, עפולה, טבריה, הגליל)
+        - ירושלים והסביבה (ירושלים, בית שמש, מבשרת ציון, מעלה אדומים)
+        - הדרום (אשדוד, אשקלון, קריית גת, באר שבע, אילת, הנגב)
+    validations:
+      required: true
+  - type: checkboxes
+    id: specialties
+    attributes:
+      label: התמחויות
+      description: מסמנים את כל מה שמופיע בפועל באתר או בדף העסקי
+      options:
+        - label: צילומי משפחה
+        - label: צילומי ילדים
+        - label: גיל שנה
+        - label: בת ובר מצווה
+        - label: הריון
+        - label: ניובורן
+        - label: דורות
+        - label: נשיות
+  - type: dropdown
+    id: lighting
+    attributes:
+      label: סגנון תאורה
+      options:
+        - סטודיו
+        - אור טבעי
+        - סטודיו ואור טבעי
+    validations:
+      required: true
+  - type: checkboxes
+    id: teaches
+    attributes:
+      label: הדרכה
+      options:
+        - label: מציע או מציעה סדנאות, קורסים, הרצאות או ליווי לצלמים
+  - type: input
+    id: website
+    attributes:
+      label: אתר
+      placeholder: https://
+  - type: input
+    id: instagram
+    attributes:
+      label: אינסטגרם
+      placeholder: https://www.instagram.com/
+  - type: input
+    id: facebook
+    attributes:
+      label: דף פייסבוק עסקי
+      placeholder: https://www.facebook.com/
+  - type: input
+    id: tagline
+    attributes:
+      label: שורת תיאור
+      description: עד 90 תווים, במילים שלכם, בלי סופרלטיבים ובלי העתקה מהאתר
+    validations:
+      required: true
+  - type: checkboxes
+    id: consent
+    attributes:
+      label: אישור
+      options:
+        - label: הפרטים לקוחים ממקור ציבורי של הצלם או הצלמת (אתר, דף עסקי או חשבון פתוח), ואני מסכים או מסכימה שהרשומה תתפרסם ברישיון CC BY 4.0
+          required: true

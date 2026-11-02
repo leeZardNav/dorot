@@ -1,0 +1,35 @@
+---
+layout: default
+---
+{% assign t = site.data.taxonomy %}
+{% assign key = page.region %}
+{% assign items = site.data.photographers | where: "region", key | sort: "name_he" %}
+<header class="page-head">
+  <div class="container">
+    <p class="eyebrow"><a href="{{ '/' | relative_url }}">המדריך</a> / לפי אזור</p>
+    <h1 class="page-title">{{ t.regions[key] }}</h1>
+    <p class="lead">צלמות וצלמי משפחה שפועלים ב{{ t.regions[key] }}, בסטודיו ובאור טבעי.</p>
+    <nav class="subnav" aria-label="אזורים">
+      {% for r in t.region_order %}
+        {% assign n = site.data.photographers | where: "region", r | size %}
+        {% if r == key %}
+          <a href="{{ '/region/' | append: r | append: '/' | relative_url }}" aria-current="page">{{ t.regions[r] }} <span>{{ n }}</span></a>
+        {% else %}
+          <a href="{{ '/region/' | append: r | append: '/' | relative_url }}">{{ t.regions[r] }} <span>{{ n }}</span></a>
+        {% endif %}
+      {% endfor %}
+    </nav>
+  </div>
+</header>
+<section class="section">
+  <div class="container">
+    {% if items.size > 0 %}
+      <p class="count">{{ items.size }} צלמות וצלמים</p>
+      <div class="grid">
+        {% for p in items %}{% include card.html p=p %}{% endfor %}
+      </div>
+    {% else %}
+      <p class="empty">עדיין לא נוספו צלמות או צלמים מ{{ t.regions[key] }}. <a href="{{ '/contribute/' | relative_url }}">הוסיפו את הראשון או הראשונה</a>.</p>
+    {% endif %}
+  </div>
+</section>

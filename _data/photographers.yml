@@ -1,0 +1,840 @@
+# מאגר הצלמות והצלמים של דורות.
+# כל רשומה היא צלם או צלמת אחת. השדות מוסברים בדף ההצטרפות: /contribute/
+# הסדר בקובץ לא משנה, האתר ממיין אלפביתית. מידע עסקי ציבורי בלבד.
+
+- name_he: אולגה כץ
+  name_en: Olga Katz
+  city_he: רחובות
+  region: shfela
+  specialties: [family, one_year, bat_mitzvah, maternity, generations, feminine]
+  lighting: both
+  teaches: true
+  website: https://olgakatzphoto.com/
+  instagram: https://www.instagram.com/olgakatz.photography/
+  facebook: https://www.facebook.com/olgakatz.photography
+  tagline_he: צילומי משפחה, גיל שנה ובת מצווה בסטודיו ברחובות ובאור טבעי, וסדנאות לצלמות ולצלמים
+  source_urls: [https://olgakatzphoto.com/, https://www.facebook.com/olgakatz.photography]
+  verified: 2026-11-02
+
+- name_he: אפרת טל
+  name_en: Efrat Tal
+  city_he: רחובות
+  region: shfela
+  specialties: [family, children, one_year, bat_mitzvah, maternity, newborn, generations]
+  lighting: both
+  teaches: false
+  website: https://www.efrattal.co.il/
+  instagram: https://www.instagram.com/efrat.tal/
+  facebook: https://www.facebook.com/EfratTalPhotography
+  tagline_he: סטודיו פרטי ברחובות לניובורן, גיל שנה ומשפחה בסגנון לייפסטייל נקי, גם בטבע ובבית
+  source_urls: [https://www.efrattal.co.il/]
+  verified: 2026-11-02
+
+- name_he: אנדה יואל
+  name_en: Anda Yoel
+  city_he: רמת גן
+  region: center
+  specialties: [family, children, one_year, bat_mitzvah, maternity, newborn, generations]
+  lighting: both
+  teaches: true
+  website: https://andayoel.com/
+  instagram: https://www.instagram.com/andayoel/
+  facebook: https://www.facebook.com/Anda.Yoel.Photographer
+  tagline_he: סטודיו בוטיק בגבול רמת גן וגבעתיים, אור טבעי בסטודיו, בטבע ובבית, וליווי עסקי לצלמות
+  source_urls: [https://andayoel.com/]
+  verified: 2026-11-02
+
+- name_he: שקד זוסמן סופר
+  name_en: Shaked Zusman Soffer
+  city_he: תל אביב
+  region: center
+  specialties: [family, one_year, bat_mitzvah, maternity, newborn, generations, feminine]
+  lighting: both
+  teaches: true
+  website: https://www.szsphotography.com/
+  instagram: https://www.instagram.com/szs_photography/
+  facebook: https://www.facebook.com/shakedzusmansofferphotography
+  tagline_he: צילומי משפחה, הריון ודורות באווירה משוחררת בבית ובחוץ, לצד סדנאות צילום
+  source_urls: [https://www.szsphotography.com/]
+  verified: 2026-11-02
+
+- name_he: קרן לגזיאל מיכאלי
+  name_en: Keren Lagziel Michaeli
+  city_he: באר יעקב
+  region: shfela
+  specialties: [family, children, one_year, bat_mitzvah, maternity, newborn, generations, feminine]
+  lighting: both
+  teaches: false
+  website: https://www.kerensgallery.net/
+  instagram: https://www.instagram.com/keren_lagziel_photography/
+  facebook: https://www.facebook.com/www.Kerensgallery.net/
+  tagline_he: סטודיו ותיק בבאר יעקב לכל טווח הז'אנר, מהריון וסמאש קייק ועד בת מצווה, דורות ונשיות
+  source_urls: [https://www.kerensgallery.net/]
+  verified: 2026-11-02
+
+- name_he: נופר הורוביץ
+  name_en: Nofar Horovitz
+  city_he: גבעתיים
+  region: center
+  specialties: [family, one_year, bat_mitzvah, maternity, newborn, feminine]
+  lighting: studio
+  teaches: false
+  website: https://www.compositzia.com/
+  instagram: https://www.instagram.com/compositzia_photography/
+  facebook: https://www.facebook.com/compositzia/
+  tagline_he: סטודיו קומפוזיציה בגבעתיים, הריון, ניובורן ונשיות באסתטיקה עדינה ובהנחיה בטוחה מול המצלמה
+  source_urls: [https://www.compositzia.com/]
+  verified: 2026-11-02
+
+- name_he: גלי כורם
+  name_en: Gali Korem
+  city_he: פתח תקווה
+  region: center
+  specialties: [family, children, one_year, bat_mitzvah, maternity, newborn]
+  lighting: both
+  teaches: false
+  website: https://www.galikorem.com/
+  instagram: https://www.instagram.com/galikorem_photography/
+  tagline_he: סטודיו בפתח תקווה וצילומי חוץ במרכז, עם דגש על חוויה נעימה לילדים ולהורים
+  source_urls: [https://www.galikorem.com/]
+  verified: 2026-11-02
+
+- name_he: מיכל פדר
+  name_en: Michal Feder
+  city_he: רמת גן
+  region: center
+  specialties: [family, children, one_year, bat_mitzvah, maternity, newborn]
+  lighting: both
+  teaches: false
+  website: https://www.federphotography.co.il/
+  instagram: https://www.instagram.com/michal_feder_photography/
+  tagline_he: הריון, ניובורן ומשפחה בסטודיו ברמת גן או בחוץ, עם תחושת נינוחות מול המצלמה
+  source_urls: [https://www.federphotography.co.il/]
+  verified: 2026-11-02
+
+- name_he: מעין גוטמן
+  name_en: Maayan Guttman
+  city_he: מודיעין
+  region: center
+  specialties: [family, children, one_year, bat_mitzvah, maternity]
+  lighting: both
+  teaches: false
+  website: https://www.maayanguttman.com/
+  instagram: https://www.instagram.com/studio_maayan_/
+  facebook: https://www.facebook.com/maayanguttmanphotography
+  tagline_he: בוק בת מצווה, גיל שנה ומשפחה בסטודיו ובטבע של מודיעין, עם פרסים בינלאומיים ברקע
+  source_urls: [https://www.maayanguttman.com/]
+  verified: 2026-11-02
+
+- name_he: רותי בנזימן
+  name_en: Ruti Benziman
+  city_he: מודיעין
+  region: center
+  specialties: [family, children, one_year, bat_mitzvah, maternity, feminine]
+  lighting: natural
+  teaches: true
+  website: https://www.rutyphotography.com/
+  instagram: https://www.instagram.com/rutim_photography/
+  facebook: https://www.facebook.com/RutimPhotography
+  tagline_he: בוק בת מצווה חווייתי בטבע, כולל צילומי לילה עם אורות, וגם מדריכים לצלמים
+  source_urls: [https://www.rutyphotography.com/]
+  verified: 2026-11-02
+
+- name_he: אילנה פלטונוב
+  name_en: Ilana Platonov
+  city_he: בת ים
+  region: center
+  specialties: [family, one_year, bat_mitzvah, maternity, newborn]
+  lighting: both
+  teaches: true
+  website: https://ilanka.co.il/
+  instagram: https://www.instagram.com/ilankaplatonov/
+  facebook: https://www.facebook.com/ilankaplatonov/
+  tagline_he: סטודיו אילנקה בבת ים, ניובורן, גיל שנה ובת מצווה, גם בטבע, וקורס ניובורן אישי לצלמות
+  source_urls: [https://ilanka.co.il/]
+  verified: 2026-11-02
+
+- name_he: קרן גניש
+  name_en: Keren Genish
+  city_he: רמלה
+  region: shfela
+  specialties: [family, children, one_year, bat_mitzvah, maternity, newborn]
+  lighting: both
+  teaches: false
+  website: https://www.kerengenishphotography.co.il/
+  instagram: https://www.instagram.com/kerengenish_photography/
+  tagline_he: ניובורן ומשפחה באסתטיקה מינימליסטית ונקייה, בסטודיו ברמלה ובשקיעות של השפלה
+  source_urls: [https://www.kerengenishphotography.co.il/]
+  verified: 2026-11-02
+
+- name_he: מעין דרויאן
+  name_en: Maayan Druyan
+  city_he: ראשון לציון
+  region: shfela
+  specialties: [family, children, one_year, bat_mitzvah, maternity, newborn]
+  lighting: both
+  teaches: false
+  website: https://maayandruyan.com/
+  instagram: https://www.instagram.com/maayandphotography/
+  tagline_he: סטודיו ביתי מחומם בראשון לציון לניובורן וגיל שנה, וצילומי חוץ בפארקים ובים
+  source_urls: [https://maayandruyan.com/services]
+  verified: 2026-11-02
+
+- name_he: אביטל ימיני
+  name_en: Avital Yemini
+  city_he: פתח תקווה
+  region: center
+  specialties: [family, children, one_year, bat_mitzvah, maternity, newborn]
+  lighting: both
+  teaches: false
+  website: https://www.avitalyemini.co.il/
+  instagram: https://www.instagram.com/avital_yemini_photography/
+  tagline_he: ניובורן, גיל שנה ובוקים למשפחה בסטודיו מאובזר בפתח תקווה ובאור טבעי בחוץ
+  source_urls: [https://www.avitalyemini.co.il/]
+  verified: 2026-11-02
+
+- name_he: ענת פנחס
+  name_en: Anat Pinchas
+  city_he: גדרה
+  region: shfela
+  specialties: [family, children, one_year, bat_mitzvah, maternity, newborn, generations]
+  lighting: both
+  teaches: false
+  website: https://www.anatpinchas.com/
+  instagram: https://www.instagram.com/anatpinchas_photographer/
+  facebook: https://www.facebook.com/AnatPinchasPhotography/
+  tagline_he: צילומי דורות ומשפחה בבית ובטבע סביב גדרה, לצד הריון, ניובורן ובת מצווה
+  source_urls: [https://www.anatpinchas.com/]
+  verified: 2026-11-02
+
+- name_he: שמרית חן
+  name_en: Shimrit Chen
+  city_he: יבנה
+  region: shfela
+  specialties: [family, children, one_year, bat_mitzvah, maternity, newborn]
+  lighting: both
+  teaches: false
+  website: https://shimrit-chen.co.il/
+  instagram: https://www.instagram.com/chenshimrit/
+  facebook: https://www.facebook.com/shimritchenphoto
+  tagline_he: מהריון ועד גיל שנה ובת מצווה ביבנה, כולל סמאש קייק וחלאקה, בסטודיו ובטבע
+  source_urls: [https://shimrit-chen.co.il/]
+  verified: 2026-11-02
+
+- name_he: אפרת שיין
+  name_en: Efrat Shine
+  city_he: חולון
+  region: center
+  specialties: [family, children, one_year, bat_mitzvah, maternity, newborn]
+  lighting: both
+  teaches: false
+  website: https://studio-shine.co.il/
+  instagram: https://www.instagram.com/efrat_shine_photographer/
+  facebook: https://www.facebook.com/EfratShine.Photographer
+  tagline_he: צילומי משפחה, ילדים ובת מצווה בחולון, בסטודיו ובחוץ, עם נגיעה של עיצוב והשראה
+  source_urls: [https://studio-shine.co.il/]
+  verified: 2026-11-02
+
+- name_he: שלהבת צדקה
+  name_en: Shalhevet Tzedaka
+  city_he: תל אביב
+  region: center
+  specialties: [family, children, bat_mitzvah, maternity, newborn]
+  lighting: both
+  teaches: false
+  website: https://www.studio-sadka.com/
+  instagram: https://www.instagram.com/sadka_photography/
+  facebook: https://www.facebook.com/profile.php?id=100087443714848
+  tagline_he: סטודיו בוטיק ברמת החייל לניובורן, הריון ומשפחה, עם דגש על רגעים אמיתיים ולא מבוימים
+  source_urls: [https://www.studio-sadka.com/]
+  verified: 2026-11-02
+
+- name_he: ענת גנור
+  name_en: Anat Ganor
+  city_he: ראשון לציון
+  region: shfela
+  specialties: [family, one_year, maternity, newborn]
+  lighting: both
+  teaches: false
+  website: https://www.anatganor.com/
+  instagram: https://www.instagram.com/anat_ganor_photography/
+  facebook: https://www.facebook.com/ShablulPhotography
+  tagline_he: הריון, ניובורן וגיל שנה בראשון לציון במראה אורגני ורך, בסטודיו ובטבע
+  source_urls: [https://www.anatganor.com/]
+  verified: 2026-11-02
+
+- name_he: אודי מוצני
+  name_en: Udi Mozni
+  city_he: גבעתיים
+  region: center
+  specialties: [family, children, generations]
+  lighting: studio
+  teaches: true
+  website: https://www.motzni.com/
+  instagram: https://www.instagram.com/minimozni/
+  tagline_he: צילומי משפחה ודורות בסטודיו בגבעתיים, וסדנאות תאורת סטודיו לצלמים
+  source_urls: [https://www.motzni.com/, https://www.phototips.co.il/event-details/FamilyGenerationsStudioPhotography281123]
+  verified: 2026-11-02
+
+- name_he: יעל אלעד
+  name_en: Yael Elad
+  city_he: רמת גן
+  region: center
+  specialties: [family, one_year, maternity, newborn, feminine]
+  lighting: both
+  teaches: true
+  website: https://newbornstudio.co.il/
+  instagram: https://www.instagram.com/yael_elad_photography/
+  facebook: https://www.facebook.com/yaelelad
+  tagline_he: סטודיו הריון וניובורן ברמת גן, וסדנאות ניובורן לצלמות בקבוצות קטנות עם תינוק אמיתי
+  source_urls: [https://newbornstudio.co.il/]
+  verified: 2026-11-02
+
+- name_he: רותי המניק
+  name_en: Ruti Hamnick
+  city_he: בני ברק
+  region: center
+  specialties: [family, children, one_year, bat_mitzvah, newborn]
+  lighting: both
+  teaches: true
+  website: https://rutihamnick.com/
+  tagline_he: ניובורן, סמאש קייק, חלאקה ומשפחה בסטודיו בבני ברק ובחוץ, וקורסי צילום בקבוצות קטנות
+  source_urls: [https://rutihamnick.com/]
+  verified: 2026-11-02
+
+- name_he: ליאת גנדלר
+  name_en: Liat Gendler
+  city_he: ראשון לציון
+  region: shfela
+  specialties: [family, one_year, maternity, newborn]
+  lighting: studio
+  teaches: true
+  website: https://linktr.ee/liatgendlerphotography
+  instagram: https://www.instagram.com/liat_gendler_photography/
+  facebook: https://www.facebook.com/liatgendler
+  tagline_he: ניובורן וגיל שנה בסטודיו בראשון לציון, וקורס ניובורן מקיף עם ליווי אישי לצלמות
+  source_urls: [https://linktr.ee/liatgendlerphotography]
+  verified: 2026-11-02
+
+- name_he: עמליה לוקאש
+  name_en: Amalia Lukash
+  city_he: רחובות
+  region: shfela
+  specialties: [family, children, bat_mitzvah, feminine]
+  lighting: natural
+  teaches: false
+  website: https://www.amalia-lukash.com/
+  instagram: https://www.instagram.com/amalia_lukash_photographer/
+  facebook: https://www.facebook.com/amalialukash1
+  tagline_he: בוק בת מצווה ומשפחות בטבע ברחובות והסביבה, צילומי נשיות ועיצוב אלבומים
+  source_urls: [https://www.amalia-lukash.com/]
+  verified: 2026-11-02
+
+# השרון
+
+- name_he: אביבית צפריר
+  name_en: Avivit Zafrir
+  city_he: משמרת (עמק חפר)
+  region: sharon
+  specialties: [family, children, one_year, bat_mitzvah, maternity, generations, feminine]
+  lighting: both
+  teaches: false
+  website: https://www.avivitzafrir.com/
+  instagram: https://www.instagram.com/avivitzafrir_photography/
+  facebook: https://www.facebook.com/avivit.photographer/
+  tagline_he: בוק בת מצווה, הריון, דורות ונשיות בעמק חפר, בטבע ובסטודיו, בגובה העיניים
+  source_urls: [https://www.avivitzafrir.com/]
+  verified: 2026-11-02
+
+- name_he: יעל פרץ
+  name_en: Yael Peretz
+  city_he: זכרון יעקב
+  region: sharon
+  specialties: [family, children, bat_mitzvah, maternity]
+  lighting: both
+  teaches: true
+  website: https://www.yaelperetz.com/
+  instagram: https://www.instagram.com/yaelperetz.photography/
+  facebook: https://www.facebook.com/yaelperetzph/
+  tagline_he: משפחות ובני מצווה בשדות ובנופי זכרון יעקב, אור טבעי ותנועה חופשית
+  source_urls: [https://www.yaelperetz.com/]
+  verified: 2026-11-02
+
+- name_he: אורית גז
+  name_en: Orit Guez
+  city_he: רעננה
+  region: sharon
+  specialties: [family, children, one_year, bat_mitzvah, maternity]
+  lighting: both
+  teaches: false
+  website: https://www.orit-guez.co.il/
+  instagram: https://www.instagram.com/oritguez/
+  facebook: https://www.facebook.com/Orit.Guez.Photographer.Batmitzvah.12
+  tagline_he: בוק בת מצווה ומשפחה ברעננה והשרון, בטבע ובסטודיו, עם סבלנות ורגישות
+  source_urls: [https://www.orit-guez.co.il/]
+  verified: 2026-11-02
+
+- name_he: יהודית בסקין גמליאל
+  name_en: Judith Baskin Gamliel
+  city_he: גבעת שפירא (עמק חפר)
+  region: sharon
+  specialties: [family, children, one_year, bat_mitzvah, maternity, newborn]
+  lighting: both
+  teaches: true
+  website: https://mammastudio.co.il/
+  instagram: https://www.instagram.com/judit_gamliel_photography/
+  facebook: https://www.facebook.com/MammaStudio.Judith
+  tagline_he: סטודיו ואקדמיה בעמק חפר להריון, ניובורן, בת מצווה ומשפחה, עם אביזרים בעבודת יד
+  source_urls: [https://mammastudio.co.il/]
+  verified: 2026-11-02
+
+- name_he: גלי פלג
+  name_en: Gali Peleg
+  city_he: נתניה
+  region: sharon
+  specialties: [family, children, maternity, newborn, generations]
+  lighting: both
+  teaches: false
+  website: https://www.galipeleg.com/
+  instagram: https://www.instagram.com/galipelegphotography/
+  tagline_he: ניובורן, משפחה ודורות בנתניה, בסטודיו ובטבע, בחיוך ובאסתטיקה נקייה
+  source_urls: [https://www.galipeleg.com/]
+  verified: 2026-11-02
+
+- name_he: רונית דיבון
+  name_en: Ronit Divon
+  city_he: נתניה
+  region: sharon
+  specialties: [family, one_year, bat_mitzvah, maternity, newborn, feminine]
+  lighting: studio
+  teaches: false
+  website: https://dvivonit.co.il/
+  instagram: https://www.instagram.com/diva_by_ronit/
+  facebook: https://www.facebook.com/divabyronit
+  tagline_he: סטודיו ביתי בנתניה לניובורן, גיל שנה, בת מצווה ונשיות, בתאורה מדויקת
+  source_urls: [https://dvivonit.co.il/]
+  verified: 2026-11-02
+
+- name_he: קטיה אברמוב
+  name_en: Katia Abramov
+  city_he: אור עקיבא
+  region: sharon
+  specialties: [family, children, bat_mitzvah, maternity, feminine]
+  lighting: natural
+  teaches: false
+  website: https://www.katia-photography.com/
+  instagram: https://www.instagram.com/katiaphotography_/
+  facebook: https://www.facebook.com/Katiabramovphotography
+  tagline_he: משפחות, הריון ונשיות באור טבעי באור עקיבא וצפון השרון, במבט חם ואותנטי
+  source_urls: [https://www.katia-photography.com/]
+  verified: 2026-11-02
+
+- name_he: אלינור יוסיפוב
+  name_en: Elinor Yosifov
+  city_he: כפר סבא
+  region: sharon
+  specialties: [family, children, one_year, bat_mitzvah, maternity]
+  lighting: natural
+  teaches: false
+  website: https://www.elinorsy.com/
+  instagram: https://www.instagram.com/elinor.sy.photo/
+  tagline_he: בוק בת מצווה, גיל שנה ומשפחה בטבע בשעת הזהב סביב כפר סבא
+  source_urls: [https://www.elinorsy.com/]
+  verified: 2026-11-02
+
+- name_he: אנה דולקין
+  name_en: Anna Dulkin
+  city_he: הרצליה
+  region: sharon
+  specialties: [family, children, bat_mitzvah, maternity, newborn]
+  lighting: natural
+  teaches: false
+  website: https://annadulkin.com/
+  instagram: https://www.instagram.com/annadulkin.photography/
+  facebook: https://www.facebook.com/annadulkin.photography
+  tagline_he: לייפסטייל משפחתי, הריון וניובורן באור טבעי בהרצליה והשרון
+  source_urls: [https://annadulkin.com/]
+  verified: 2026-11-02
+
+- name_he: סוזי קסטיאל
+  name_en: Suzi Castiel
+  city_he: הוד השרון
+  region: sharon
+  specialties: [family, children, one_year, bat_mitzvah, maternity]
+  lighting: both
+  teaches: false
+  website: https://suzistudio-photography.co.il/
+  instagram: https://www.instagram.com/suzi_studio_photography/
+  facebook: https://www.facebook.com/suzi.photographer
+  tagline_he: בת מצווה, משפחה וגיל שנה בהוד השרון, בטבע ובסטודיו, עם חיבור לילדים ולנוער
+  source_urls: [https://suzistudio-photography.co.il/]
+  verified: 2026-11-02
+
+- name_he: ליבי פאר
+  name_en: Libby Peer
+  city_he: השרון
+  region: sharon
+  specialties: [family, one_year, bat_mitzvah, maternity, generations]
+  lighting: natural
+  teaches: true
+  website: https://www.libbypeer.com/
+  instagram: https://www.instagram.com/libbypeerphoto/
+  facebook: https://www.facebook.com/libbyPeerPhoto/
+  tagline_he: בת מצווה, משפחה ודורות באור טבעי בשרון, וקורס צילום למתחילים עם ליווי אישי
+  source_urls: [https://www.libbypeer.com/]
+  verified: 2026-11-02
+
+# הצפון
+
+- name_he: אנה גרוזמן
+  name_en: Anna Gruzman
+  city_he: כפר החורש (עמק יזרעאל)
+  region: north
+  specialties: [family, children, one_year, bat_mitzvah, maternity]
+  lighting: natural
+  teaches: false
+  website: https://www.annagruzman.com/
+  instagram: https://www.instagram.com/anna_gruzman_photography/
+  facebook: https://www.facebook.com/annagruzman.photo/
+  tagline_he: לייפסטייל משפחתי בשעת הזהב בעמק יזרעאל, רגעים אמיתיים בלי העמדות
+  source_urls: [https://www.annagruzman.com/]
+  verified: 2026-11-02
+
+- name_he: אורטל בריוטי
+  name_en: Ortal Baryoti
+  city_he: קריית מוצקין
+  region: north
+  specialties: [family, children, one_year, bat_mitzvah, maternity, newborn, feminine]
+  lighting: studio
+  teaches: false
+  website: https://www.studiortal.com/
+  instagram: https://www.instagram.com/studio_ortal_baryoti/
+  facebook: https://www.facebook.com/studiortalb
+  tagline_he: סטודיו ביתי בקריות לניובורן, גיל שנה, משפחה ובת מצווה, באווירה רכה
+  source_urls: [https://www.studiortal.com/]
+  verified: 2026-11-02
+
+- name_he: עופרה מוסקוביץ
+  name_en: Ofra Moskowitz
+  city_he: חיפה
+  region: north
+  specialties: [family, one_year, bat_mitzvah, maternity, newborn, feminine]
+  lighting: both
+  teaches: false
+  website: https://ofraphotography.wixsite.com/ofra
+  instagram: https://www.instagram.com/ofra_photography/
+  facebook: https://www.facebook.com/ofraidan89/
+  tagline_he: צילום בוטיק בחיפה לניובורן, גיל שנה, בת מצווה ונשיות, בסטודיו ובחוץ
+  source_urls: [https://ofraphotography.wixsite.com/ofra]
+  verified: 2026-11-02
+
+- name_he: מוריאל פיזלזון
+  name_en: Muriel Fiselzon
+  city_he: קיבוץ דן
+  region: north
+  specialties: [family, bat_mitzvah, maternity, newborn, feminine]
+  lighting: natural
+  teaches: true
+  website: http://murielart.com/
+  instagram: https://www.instagram.com/muriel_studio/
+  facebook: https://www.facebook.com/studio.muriel
+  tagline_he: סטודיו בקיבוץ דן להריון, משפחה ונשיות באור טבעי, עם קורסים ופוטותרפיה
+  source_urls: [http://murielart.com/]
+  verified: 2026-11-02
+
+- name_he: לימור דוד סמוביץ'
+  name_en: Limor David Samovich
+  city_he: קיבוץ יפעת (עמק יזרעאל)
+  region: north
+  specialties: [family, children, bat_mitzvah, maternity, newborn]
+  lighting: studio
+  teaches: true
+  website: https://afunim.co.il/
+  instagram: https://www.instagram.com/limordavid.studio.afunim/
+  facebook: https://www.facebook.com/afunim.studio
+  tagline_he: סטודיו אפונים בעמק יזרעאל, ניובורן אמנותי, הריון ומשפחה, וקורסים לצלמות
+  source_urls: [https://afunim.co.il/]
+  verified: 2026-11-02
+
+- name_he: אלינור לאלוש רותם
+  name_en: Elinor Lallouche Rotem
+  city_he: כברי (הגליל המערבי)
+  region: north
+  specialties: [family, children, one_year, maternity, newborn]
+  lighting: natural
+  teaches: false
+  website: https://www.elinorlallouche.com/
+  instagram: https://www.instagram.com/elinor.lallouche.rotem/
+  facebook: https://www.facebook.com/ElinorLalloucheRotem/
+  tagline_he: משפחות, ניובורן וגיל שנה בגליל המערבי באור טבעי, אותנטי ולא מבוים
+  source_urls: [https://www.elinorlallouche.com/]
+  verified: 2026-11-02
+
+- name_he: איריס גליקסמן
+  name_en: Iris Gliksman
+  city_he: נהריה
+  region: north
+  specialties: [family, children, one_year, bat_mitzvah, maternity, newborn]
+  lighting: both
+  teaches: true
+  website: https://irisgliks.com/
+  instagram: https://www.instagram.com/irisgliksman/
+  facebook: https://www.facebook.com/IRISGLIKS
+  tagline_he: סטודיו נייד ובטבע בנהריה למשפחות, גיל שנה ובת מצווה, וגם מלמדת צילום
+  source_urls: [https://irisgliks.com/]
+  verified: 2026-11-02
+
+- name_he: טינה לנטרט
+  name_en: Tina Lantrat
+  city_he: הגליל התחתון
+  region: north
+  specialties: [family, children, maternity, newborn, feminine]
+  lighting: natural
+  teaches: false
+  website: https://tinalantrat.co.il/
+  instagram: https://www.instagram.com/tinalantrat/
+  facebook: https://www.facebook.com/4kartinka/
+  tagline_he: הריון, ניובורן ותינוקות באור טבעי בגליל התחתון, בגישה חמה ושקטה
+  source_urls: [https://tinalantrat.co.il/]
+  verified: 2026-11-02
+
+- name_he: יסמין ברדה פאר
+  name_en: Yasmin Berda Peer
+  city_he: קציר
+  region: north
+  specialties: [family, children, bat_mitzvah, maternity]
+  lighting: natural
+  teaches: true
+  website: https://www.yasminberda.com/
+  instagram: https://www.instagram.com/yasmin_berda/
+  tagline_he: צילומי משפחה באור טבעי בקציר ובצפון, ושיעורי צילום לילדים ולנוער, גם הורה וילד
+  source_urls: [https://www.yasminberda.com/]
+  verified: 2026-11-02
+
+# ירושלים והסביבה
+
+- name_he: ויקה גורשטיין
+  name_en: Vika Gorshtein
+  city_he: מושב אורה (הרי ירושלים)
+  region: jerusalem
+  specialties: [family, children, one_year, bat_mitzvah, maternity, newborn, generations, feminine]
+  lighting: both
+  teaches: true
+  website: https://vika-photo.co.il/
+  instagram: https://www.instagram.com/victoria_gorstain.photo/
+  facebook: https://www.facebook.com/PregnancyNewbornPhotographerVikaGorstain
+  tagline_he: פיין ארט משפחתי ונשי בסטודיו בהרי ירושלים ובאור טבעי, עם משחקי אור וצל
+  source_urls: [https://vika-photo.co.il/]
+  verified: 2026-11-02
+
+- name_he: איילת מלכא
+  name_en: Ayelet Malka
+  city_he: ירושלים
+  region: jerusalem
+  specialties: [family, children, one_year, bat_mitzvah, maternity, newborn]
+  lighting: studio
+  teaches: false
+  website: https://www.ayeletmalkastudio.photography/
+  instagram: https://www.instagram.com/ayeletmalka_photo/
+  facebook: https://www.facebook.com/ayelet.malka
+  tagline_he: סטודיו חם בירושלים לילדים, ניובורן, הריון ובת מצווה, עם ארון תלבושות עשיר
+  source_urls: [https://www.ayeletmalkastudio.photography/]
+  verified: 2026-11-02
+
+- name_he: ענת אורן
+  name_en: Anat Oren
+  city_he: קריית ענבים (הרי ירושלים)
+  region: jerusalem
+  specialties: [family, children, bat_mitzvah, maternity, newborn, feminine]
+  lighting: both
+  teaches: false
+  website: https://familyphoto02.wixsite.com/anatoren
+  instagram: https://www.instagram.com/anat_oren/
+  tagline_he: סטודיו בגן של קיבוץ קריית ענבים לצילומי משפחה, הריון ונשים, גם בטבע הסובב
+  source_urls: [https://familyphoto02.wixsite.com/anatoren]
+  verified: 2026-11-02
+
+- name_he: לאה קוביצק
+  name_en: Lea Kubitshek
+  city_he: ירושלים והסביבה
+  region: jerusalem
+  specialties: [family, children, one_year, newborn]
+  lighting: both
+  teaches: true
+  website: https://lehakubitshek.co.il/
+  tagline_he: צילומי משפחה וניובורן באזור ירושלים לקהל החרדי, עם עריכה חלומית וסדנאות לצלמות
+  source_urls: [https://lehakubitshek.co.il/]
+  verified: 2026-11-02
+
+- name_he: אסתי ורקר
+  name_en: Esti Verker
+  city_he: מודיעין עילית
+  region: jerusalem
+  specialties: [family, children, one_year, bat_mitzvah, maternity, newborn]
+  lighting: both
+  teaches: false
+  website: https://www.estiverker.co.il/
+  instagram: https://www.instagram.com/estiverkerphotography/
+  tagline_he: צילומי ילדים, ניובורן ובת מצווה בסטודיו ובטבע לקהילה החרדית במודיעין עילית
+  source_urls: [https://www.estiverker.co.il/]
+  verified: 2026-11-02
+
+- name_he: שרי וינפלד
+  name_en: Sari Weinfeld
+  city_he: ביתר עילית
+  region: jerusalem
+  specialties: [family, children, one_year, maternity, newborn]
+  lighting: both
+  teaches: false
+  website: https://sary.co.il/
+  tagline_he: צילומי ילדים ומשפחה בסטודיו ובחוץ בביתר עילית, מגיל אפס ועד חלאקה
+  source_urls: [https://sary.co.il/]
+  verified: 2026-11-02
+
+- name_he: רחלי תן עמי
+  name_en: Racheli Tenami
+  city_he: בית שמש
+  region: jerusalem
+  specialties: [family, one_year, newborn]
+  lighting: both
+  teaches: true
+  website: https://photo.r-t.co.il/
+  tagline_he: מומחית ניובורן בבית שמש, סטודיו קלאסי ולייפסטייל בבית, ומלווה צלמות מתחילות
+  source_urls: [https://photo.r-t.co.il/]
+  verified: 2026-11-02
+
+- name_he: מירי מנדלסון
+  name_en: Miri Mendelson
+  city_he: ירושלים
+  region: jerusalem
+  specialties: [family, children, bat_mitzvah, newborn]
+  lighting: both
+  teaches: false
+  website: https://mirimendelson-photo.com/
+  tagline_he: צלמת ירושלמית לניובורן, ילדים ומשפחה, עם דגש על רגעים קטנים ואלבומים מודפסים
+  source_urls: [https://mirimendelson-photo.com/]
+  verified: 2026-11-02
+
+- name_he: מירי וינברג
+  name_en: Miri Weinberg
+  city_he: בית שמש
+  region: jerusalem
+  specialties: [family, maternity, newborn]
+  lighting: studio
+  teaches: true
+  website: https://miriweinberg.co.il/
+  tagline_he: סטודיו ניובורן רגוע בבית שמש עם עטיפות ואביזרים, וקורסי צילום ניובורן
+  source_urls: [https://miriweinberg.co.il/]
+  verified: 2026-11-02
+
+- name_he: חוה רחל
+  name_en: Chava Rachel
+  city_he: ביתר עילית
+  region: jerusalem
+  specialties: [family, children, one_year, bat_mitzvah, maternity, newborn]
+  lighting: both
+  teaches: true
+  website: https://www.chavarachel.com/
+  instagram: https://www.instagram.com/chava_rachel/
+  facebook: https://www.facebook.com/chavarachelphoto
+  tagline_he: צילומי ניובורן, ילדים ומשפחה בביתר עילית, ובית ספר לצלמות עם קורס ניובורן דיגיטלי
+  source_urls: [https://www.chavarachel.com/, https://crpschool.co.il/]
+  verified: 2026-11-02
+
+# הדרום
+
+- name_he: ג'ני פפרמן
+  name_en: Jenny Peperman
+  city_he: אשקלון
+  region: south
+  specialties: [family, bat_mitzvah, maternity, generations, feminine]
+  lighting: natural
+  teaches: true
+  website: https://jennypeperman.com/
+  instagram: https://www.instagram.com/jennypeperman/
+  facebook: https://www.facebook.com/jennypeperman
+  tagline_he: פורטרטים מעצימים לנשים ולנערות באור טבעי, בבית ובטבע, מבאר שבע ועד השפלה
+  source_urls: [https://jennypeperman.com/]
+  verified: 2026-11-02
+
+- name_he: ניצן מגל
+  name_en: Nitzan Magal
+  city_he: קיבוץ שקף (חבל לכיש)
+  region: south
+  specialties: [family, bat_mitzvah, maternity, newborn, generations]
+  lighting: natural
+  teaches: true
+  website: https://nm-photography.com/
+  instagram: https://www.instagram.com/neitsan_magal_photography/
+  tagline_he: צילום תיעודי ולא מבוים של משפחות בבית ובטבע, מחבל לכיש לכל הדרום
+  source_urls: [https://nm-photography.com/]
+  verified: 2026-11-02
+
+- name_he: ג'וד טורג'מן
+  name_en: Jude Turgeman
+  city_he: קיבוץ חולית (חבל אשכול)
+  region: south
+  specialties: [family, children, one_year, bat_mitzvah, maternity, newborn]
+  lighting: studio
+  teaches: true
+  website: https://jude.co.il/
+  instagram: https://www.instagram.com/jude_photography_studio/
+  facebook: https://www.facebook.com/Jude.Photographer
+  tagline_he: סטודיו נייד שמגיע לכל הדרום, מניובורן ועד בת מצווה, מקיבוץ חולית שבאשכול
+  source_urls: [https://jude.co.il/]
+  verified: 2026-11-02
+
+- name_he: לירן יוחאי
+  name_en: Liran Yohay
+  city_he: אילת
+  region: south
+  specialties: [family, children, bat_mitzvah, maternity, newborn]
+  lighting: both
+  teaches: true
+  website: https://liranyohay.co.il/
+  instagram: https://www.instagram.com/liranyohay_photography/
+  facebook: https://www.facebook.com/studioliran/
+  tagline_he: סטודיו לייפסטייל באילת וצילומי חוץ בנופי העיר, בשילוב פוטותרפיה
+  source_urls: [https://liranyohay.co.il/]
+  verified: 2026-11-02
+
+- name_he: אורטל שלום
+  name_en: Ortal Shalom
+  city_he: באר שבע
+  region: south
+  specialties: [one_year, bat_mitzvah, maternity]
+  lighting: both
+  teaches: false
+  website: https://idankivat.wixsite.com/ortalshalom
+  instagram: https://www.instagram.com/ortal_shalom/
+  tagline_he: צילומי הריון, גיל שנה ובת מצווה בבאר שבע, בסטודיו, בחוף ועם סוסים בלוקיישן
+  source_urls: [https://idankivat.wixsite.com/ortalshalom]
+  verified: 2026-11-02
+
+- name_he: אדוה שלהבת ברזילי
+  name_en: Adva Shalhevet Brazily
+  city_he: באר שבע
+  region: south
+  specialties: [family, children, maternity, newborn]
+  lighting: both
+  teaches: false
+  website: https://studioboutika.com/
+  instagram: https://www.instagram.com/advash/
+  facebook: https://www.facebook.com/StudioBoutika
+  tagline_he: סטודיו בוטיקה בבאר שבע, באווירת וינטג', לצילומי הריון, ניובורן ומשפחה
+  source_urls: [https://studioboutika.com/]
+  verified: 2026-11-02
+
+- name_he: מאיה אמדו
+  name_en: Maya Amado
+  city_he: אשדוד
+  region: south
+  specialties: [family, children, one_year, bat_mitzvah, maternity, newborn]
+  lighting: natural
+  teaches: false
+  website: https://www.mayamado.co.il/
+  instagram: https://www.instagram.com/maya_amado/
+  facebook: https://www.facebook.com/mayamado.p
+  tagline_he: צילומי הריון ומשפחה אותנטיים באור טבעי בבית ובטבע באזור אשדוד ואשקלון
+  source_urls: [https://www.mayamado.co.il/photography]
+  verified: 2026-11-02

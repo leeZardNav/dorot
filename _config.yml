@@ -1,0 +1,38 @@
+title: דורות
+tagline: צלמות וצלמי משפחה בישראל
+description: >-
+  מדריך קהילתי פתוח לצלמות ולצלמי משפחה בישראל: צילומי משפחה, ילדים, גיל שנה,
+  בת ובר מצווה, הריון, ניובורן, דורות ונשיות, בסטודיו ובאור טבעי.
+lang: he
+locale: he_IL
+url: https://leezardnav.github.io
+baseurl: /dorot
+repository: leeZardNav/dorot
+github_repo_url: https://github.com/leeZardNav/dorot
+github_edit_base: https://github.com/leeZardNav/dorot/edit/main
+github_new_issue: https://github.com/leeZardNav/dorot/issues/new/choose
+
+markdown: kramdown
+kramdown:
+  input: GFM
+permalink: pretty
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+exclude:
+  - README.md
+  - CONTRIBUTING.md
+  - LICENSE
+  - control-plane-works
+  - node_modules
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
